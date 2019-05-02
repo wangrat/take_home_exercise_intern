@@ -18,7 +18,7 @@ We recommend spending no more than 3 hours completing this exercise.
 
 ### Submitting your work:
 
-To submit, please fork this repository and create a pull request on that fork. Please then remail the link to the pull request to 
+To submit, please fork this repository and create a pull request on that fork. **NB By default, Github will try to create the PR to merge into shutl/take_home_exercise_intern. Please ensure you change the base to be your fork, not this repo. This is to ensure other candidates do not have easy access to your work.** Please then email the link to the pull request to 
 DL-eBay-Shutl-Intern-Hiring@ebay.com. There is no deadline for submission but keep in mind that we will review the PRs in the order they come in.
 
 ## Completed Feature
