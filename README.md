@@ -121,3 +121,14 @@ Make quote request:
 echo '{"pickupPostcode": "SW1A1AA", "deliveryPostcode": "EC2A3LT" }' | \
 curl -d @- http://localhost:8080/quote --header "Content-Type:application/json"
 ```
+
+## Troubleshooting
+
+Some version configurations cause Gradle to not be able to find the main class. to fix this add the follwoing to the end of the build.gradle file
+```
+springBoot {
+    mainClass = "com.shutl.Application"
+}
+```
+
+The build has been tested for Gradle 5.4.1 and Java 8
