@@ -1,3 +1,7 @@
+# Applicant's annotation
+
+Web interface is available at server's address after running the server with gradle buildRun.
+
 # Take home exercise
 
 For our tech test, we'd like you to take a stripped-down version of our quoting engine, and then add some features. This is a RESTful service endpoint that takes a few details and works out the price for a delivery.
